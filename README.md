@@ -20,7 +20,7 @@ Actualmente trabajo como **.NET Developer en GSAM Tech**, desarrollando aplicaci
 
 ## Technical toolkit
 
-These are the technologies I use across backend development, infrastructure, automation, and cybersecurity.
+Estas son las tecnologías que utilizo en desarrollo backend, infraestructura, automatización y ciberseguridad.
 
 **Backend and data**
 
