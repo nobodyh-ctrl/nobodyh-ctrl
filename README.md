@@ -13,6 +13,7 @@ Actualmente trabajo como **.NET Developer en GSAM Tech**, desarrollando aplicaci
 
 ## Projects & open source
 
+- **[OpenAegis](https://github.com/nobodyh-ctrl/openaegis)** — Lista de verificación de seguridad en la nube serverless, desarrollada con Python y AWS, para aprender y demostrar conceptos de seguridad en la nube, arquitectura sin servidor, IAM, monitoreo e infraestructura como código.
 - **[PortScan](https://github.com/nobodyh-ctrl/portscan)** — TCP port scanner desarrollado desde cero para aprender fundamentos de networking y ciberseguridad.
 - **MCP Server Laburen Challenge** — Implementación de un MCP Server orientado a integrar agentes con herramientas y servicios externos.
 
