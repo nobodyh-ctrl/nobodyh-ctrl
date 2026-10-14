@@ -14,6 +14,7 @@ Actualmente trabajo como **.NET Developer en GSAM Tech**, desarrollando aplicaci
 ## Projects & open source
 
 - **[PortFolio](https://github.com/nobodyh-ctrl/nobodyh-ctrl.github.io)** — Portfolio personal desarrollado con Next.js, React y TypeScript. Despliegue automatizado mediante GitHub Actions y GitHub Pages.
+- **[Tenet](https://github.com/nobodyh-ctrl/tenet-plugin)** — Plugin de Claude Code para hacer ingeniería con disciplina: workflows guiados por specs con OpenSpec, subagentes de mínimo privilegio, un guard PreToolUse contra comandos destructivos, memoria con Engram y un manual de ingeniería.
 - **[OpenAegis](https://github.com/nobodyh-ctrl/openaegis)** — Lista de verificación de seguridad en la nube serverless, desarrollada con Python y AWS, para aprender y demostrar conceptos de seguridad en la nube, arquitectura sin servidor, IAM, monitoreo e infraestructura como código.
 - **[PortScan](https://github.com/nobodyh-ctrl/portscan)** — TCP port scanner desarrollado desde cero para aprender fundamentos de networking y ciberseguridad.
 - **[MCP Server Laburen Challenge](https://github.com/nobodyh-ctrl/mcp-server-laburenchallenge)** — Implementación de un MCP Server orientado a integrar agentes con herramientas y servicios externos.
