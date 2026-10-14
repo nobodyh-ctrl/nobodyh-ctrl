@@ -15,7 +15,7 @@ Actualmente trabajo como **.NET Developer en GSAM Tech**, desarrollando aplicaci
 
 - **[OpenAegis](https://github.com/nobodyh-ctrl/openaegis)** — Lista de verificación de seguridad en la nube serverless, desarrollada con Python y AWS, para aprender y demostrar conceptos de seguridad en la nube, arquitectura sin servidor, IAM, monitoreo e infraestructura como código.
 - **[PortScan](https://github.com/nobodyh-ctrl/portscan)** — TCP port scanner desarrollado desde cero para aprender fundamentos de networking y ciberseguridad.
-- **MCP Server Laburen Challenge** — Implementación de un MCP Server orientado a integrar agentes con herramientas y servicios externos.
+- **[MCP Server Laburen Challenge](https://github.com/nobodyh-ctrl/mcp-server-laburenchallenge)** — Implementación de un MCP Server orientado a integrar agentes con herramientas y servicios externos.
 
 
 
@@ -41,6 +41,15 @@ Estas son las tecnologías que utilizo en desarrollo backend, infraestructura, a
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20%2F%20Supabase-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Cloud and infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![IAM](https://img.shields.io/badge/AWS%20IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Dokploy](https://img.shields.io/badge/Dokploy-F97316?style=for-the-badge&logo=docker&logoColor=white)
